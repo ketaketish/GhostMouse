@@ -1,6 +1,8 @@
 # GhostMouse
 Version: GhostMouse 2.0<br/>
 
+![alt text|10x10, 10%](help/screenshots/open.PNG "Description goes here")
+
 GhostMouse is a lightweight program that allows you to record your mouse mouvement and clicks and plays them back.<br/>
 You have the option to either do 1 playback, or infinite Loop by Clicking Play while recording.
 
