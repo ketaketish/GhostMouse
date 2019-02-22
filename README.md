@@ -7,7 +7,7 @@ You have the option to either do 1 playback, or infinite Loop by Clicking Play w
 
 ## Download Instructions
 For only the program, click on the following link:<br/>
-https://github.com/ketaketish/GhostMouse/raw/master/ghost-mouse-2.0.exe
+https://github.com/ketaketish/GhostMouse/releases/download/V2.0/ghost-mouse-2.0.exe
 ###### For all other files, please clone Git branch
 
  ## Hotkeys
