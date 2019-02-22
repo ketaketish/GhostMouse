@@ -2,7 +2,7 @@ GhostMouse
 ========
 Version: GhostMouse 2.0<br/>
 
-GhostMouse is a lightweight program that allows you to record your mouse mouvement and clicks and plays them back.<br/>
+GhostMouse is a lightweight program that allows you to record your mouse movement and clicks and plays them back.<br/>
 You have the option to either do 1 playback, or infinite Loop by Clicking Play while recording.
 
 ## Download Instructions
@@ -34,7 +34,7 @@ https://github.com/ketaketish/GhostMouse/raw/master/ghost-mouse-2.0.exe
 <br/><img src=help/screenshots/paused.PNG width="200" height="100">
 
 **4. For multiple/infinite playback**
-<br/>Once you are satisfied with your recording, if you click **_Play_**, The recording will immediately begin. The recording will always finish by re-clicking on **_Play_** and restarting the recording.
+<br/>Once you are satisfied with your recording, if you click **_Play_**, the recording will immediately begin. The recording will always finish by re-clicking on **_Play_** and restarting the recording.
 <br/>**\**To stop playback, press _Ctrl + Alt_.**\**
 <br/><img src=help/screenshots/rec-play.PNG width="200" height="100">
 
@@ -57,7 +57,7 @@ From here, you can adjust the playback speed of your recording to make your mous
 <br/><img src=help/screenshots/open.PNG width="300" height="200">
 
 ## Extras
-You can have multiple windows of GhostMouse opened at once. You can Make one of the recordings click **_Play_** from another window and start that playback instead. Useful if you wish to create a recording longer than the program's maximum lenght.
+You can have multiple windows of GhostMouse opened at once. You can Make one of the recordings click **_Play_** from another window and start that playback instead. Useful if you wish to create a recording longer than the program's maximum length.
 <br/><img src=help/screenshots/multiple.PNG width="600" height="300">
 
 # Credits
